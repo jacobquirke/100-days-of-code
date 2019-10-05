@@ -6,10 +6,6 @@
 
 **Thoughts** I've only just fully invested my time in coding and loving it so far. I've only scratched the surface but I want to get a strong foundation in HTML/CSS before I move onto anything else.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
 ### Day 2: 5 October 2019, Saturday
 
 **Today's Progress**: Made my first real dent into Javascript using freeCodeCamp's 'Basic Javascript' tutorials. Had a warm down later in the day by continuing practice on web layouts and navigation.
