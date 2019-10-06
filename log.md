@@ -24,4 +24,3 @@
 
 **Link(s) to work**
 1. [Navigation practice](https://codepen.io/jacobquirke/pen/jONgdmz)
-2. [Layout practice](https://codepen.io/jacobquirke/pen/RwbzdQe)
