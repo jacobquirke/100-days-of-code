@@ -24,3 +24,18 @@
 
 **Link(s) to work**
 1. [Navigation practice](https://codepen.io/jacobquirke/pen/jONgdmz)
+
+### Day 4: 7 October 2019, Monday
+
+**Today's Progress**: Been pretty ill today. Did some Javascript tutorials but don't know how much sunk in. Just glad I'm continuing to push.
+
+**Thoughts** Illness really takes your focus away but discipline kept me going to a certain degree.
+
+### Day 5: 8 October 2019, Tuesday
+
+**Today's Progress**: Really struggling with JavaScript. I'm doing the tutorials but don't know how much I know. Just got to keep practicing and trying new things. I did a bit of extra work on learning new navigation styles in HTML/CSS - this time using JS!
+
+**Thoughts** I need to remember what it was like learning all the different CSS for the first time. I'm still no expert in HTML/CSS but it's easier now. It it takes is practice and dedication.
+
+**Link(s) to work**
+1. [Navigation practice](https://codepen.io/jacobquirke/pen/jONgdmz)
