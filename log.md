@@ -38,4 +38,4 @@
 **Thoughts** I need to remember what it was like learning all the different CSS for the first time. I'm still no expert in HTML/CSS but it's easier now. It it takes is practice and dedication.
 
 **Link(s) to work**
-1. [Navigation practice](https://codepen.io/jacobquirke/pen/jONgdmz)
+1. [First HTML/CSS w/ JS - Boxes](https://codepen.io/jacobquirke/pen/wvvaKvg)
