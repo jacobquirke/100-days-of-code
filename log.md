@@ -45,3 +45,9 @@
 **Today's Progress**: More work on JavaScript and data structures. Not inspired by in it the least. I think it's difficult when I can't see the tangeable use of it in the way it's being taught. It's more beneficial in learning when there's an emotional link to best remember everything.
 
 **Thoughts** I think I need a break from JavaScript and focus more on web development and honing my skills in that regard. I want to focus on getting a job over learning things I can't see direct results from. Not sure if that's the right choice to make but I'm making it!
+
+### Day 7: 10 October 2019, Thursday
+
+**Today's Progress**: Working on React. Really complicated when you get into it. May have to return to JavaScript and Data Structures to feel more comfortable in dealing with the more complicated concepts. Just go at a simpler pace.
+
+**Thoughts** I thought I needed a break when in fact I just need to keep pushing to have a good grounding in HTML/CSS and Javascript. I don't have to jump the gun. I need to have a good grasp of the fundaments. HTML/CSS, JavaScript and data structures. Spend the next month on those three. Get them DOWN!
