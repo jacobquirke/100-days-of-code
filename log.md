@@ -51,3 +51,18 @@
 **Today's Progress**: Working on React. Really complicated when you get into it. May have to return to JavaScript and Data Structures to feel more comfortable in dealing with the more complicated concepts. Just go at a simpler pace.
 
 **Thoughts** I thought I needed a break when in fact I just need to keep pushing to have a good grounding in HTML/CSS and Javascript. I don't have to jump the gun. I need to have a good grasp of the fundaments. HTML/CSS, JavaScript and data structures. Spend the next month on those three. Get them DOWN!
+
+### Day 8: 11 October 2019, Friday
+
+**Today's Progress**: Writing my first blog post on my experience thus far. A bit of work on data structures, JavaScript. Flitting about to see what I want to do this weekend.
+
+**Thoughts** Feel at a en passe where I'm unsure how to progress. There's so much I can do. Probably best to become highly proficient in HTML/CSS, JavaScript and the DOM!
+
+**Link(s) to work**
+1. [Blog](https://www.jacobquirke.com/blog)
+
+### Day 9: 12 October 2019, Saturday
+
+**Today's Progress**: Starting a project to build my own Giphy gif generator using their API. First realy JavaScript project so let's see how it goes!
+
+**Thoughts** 
