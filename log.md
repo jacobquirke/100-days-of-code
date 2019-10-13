@@ -77,4 +77,5 @@
 **Thoughts** Woke up and all I wanted to do was code. I'm feeling really good. I do need to make sure I keep brushing up on my HTML/CSS so I don't get rusty - Try CSS Grid today.
 
 **Links to work**
-- [Gif search] (https://www.jacobquirke.com/gif-search)
+1. [Gif search] (https://www.jacobquirke.com/gif-search)
+2. [Random Recipe Generator] {https://www.jacobquirke.com/recipe-generator}
