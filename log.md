@@ -65,4 +65,16 @@
 
 **Today's Progress**: Starting a project to build my own Giphy gif generator using their API. First realy JavaScript project so let's see how it goes!
 
-**Thoughts** 
+**Thoughts** Don't fully understand JavaScript or creating APIs but I'm learning. Just need to keep practicing and logging what I learn.
+
+**Links to work**
+- [Gif search] (https://www.jacobquirke.com/gif-search)
+
+### Day 10: 13 October 2019: Sunday
+
+**Today's Progress**: Working on further JavaScript principles including: the basics, data structures, object-orientated programming, algorithms (**struggling**) and functional programming. Also, I need to continue my gif search to see if I can get it does chain numerous searches on top of each other.
+
+**Thoughts** Woke up and all I wanted to do was code. I'm feeling really good. I do need to make sure I keep brushing up on my HTML/CSS so I don't get rusty - Try CSS Grid today.
+
+**Links to work**
+- [Gif search] (https://www.jacobquirke.com/gif-search)
