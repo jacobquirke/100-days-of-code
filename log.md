@@ -79,3 +79,4 @@
 **Links to work**
 1. [Gif search] (https://www.jacobquirke.com/gif-search)
 2. [Random Recipe Generator] {https://www.jacobquirke.com/recipe-generator}
+3. [First blog post on web dev] (https://www.jacobquirke.com/post/things-i-ve-learned-in-web-development)
