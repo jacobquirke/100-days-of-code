@@ -68,7 +68,7 @@
 **Thoughts** Don't fully understand JavaScript or creating APIs but I'm learning. Just need to keep practicing and logging what I learn.
 
 **Links to work**
-- [Gif search] (https://www.jacobquirke.com/gif-search)
+- [Gif search](https://www.jacobquirke.com/gif-search)
 
 ### Day 10: 13 October 2019: Sunday
 
@@ -77,6 +77,6 @@
 **Thoughts** Woke up and all I wanted to do was code. I'm feeling really good. I do need to make sure I keep brushing up on my HTML/CSS so I don't get rusty - Try CSS Grid today.
 
 **Links to work**
-1. [Gif search] (https://www.jacobquirke.com/gif-search)
-2. [Random Recipe Generator] {https://www.jacobquirke.com/recipe-generator}
-3. [First blog post on web dev] (https://www.jacobquirke.com/post/things-i-ve-learned-in-web-development)
+1. [Gif search](https://www.jacobquirke.com/gif-search)
+2. [Random Recipe Generator](https://www.jacobquirke.com/recipe-generator)
+3. [First blog post on web dev](https://www.jacobquirke.com/post/things-i-ve-learned-in-web-development)
