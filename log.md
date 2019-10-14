@@ -80,3 +80,12 @@
 1. [Gif search](https://www.jacobquirke.com/gif-search)
 2. [Random Recipe Generator](https://www.jacobquirke.com/recipe-generator)
 3. [First blog post on web dev](https://www.jacobquirke.com/post/things-i-ve-learned-in-web-development)
+
+### Day 11: 14 October 2019: Monday
+
+**Today's Progress** I have created a to do list by copying an example on W3Schools. There were bugs in my version which I fixed but unsure what I changed and how it affected it in the first place. I can replicate things but I don't think I can comfortable create anything untethered. I need to practice my basic HTML/CSS & JavaScript skills until it's second nature.
+
+**Thoughts** JavaScript is challenging to get my head around so I need to go back to the start and get comfortable with it. The same with HTML/CSS. I want to be able to build things without having to think so when it comes to the more challenging work, I can really get stuck into it and have a good foundation.
+
+**Links to work**
+- [To Do List](https://www.jacobquirke.com/to-do-list)
