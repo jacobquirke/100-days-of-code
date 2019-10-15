@@ -89,3 +89,9 @@
 
 **Links to work**
 - [To Do List](https://www.jacobquirke.com/to-do-list)
+
+### Day 12: 15 October 2019: Tuesday
+
+**Today's Progress** My original plan was to focus on JavaScript. With the possibility of gaining my first web development client - a logistics company - I had some pressure put on myself to learn more about FTP/File Transfer Protocol (and SFTP/Secure File Transfer Protocol) in order to upload and manage a website. It has given me a clearer sense of what to do when wishing to create a site from scratch AND the interconnectivity between files i.e. using external stylesheets and scripts for better speed and cleaner code.
+
+**Thoughts** I started the evening really worried that I wouldn't be able to get my task done in time but now I've gained more confidence than I expected. I feel very comfortable in creating an entire website now and linking everything together. Feeling very good about this - it feels as easy as it was when I was really in my stride at Spark44. Websites are just folders and files connected together in a seemingly fancy way. It's all very simple thinking about it.
