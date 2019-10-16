@@ -95,3 +95,9 @@
 **Today's Progress** My original plan was to focus on JavaScript. With the possibility of gaining my first web development client - a logistics company - I had some pressure put on myself to learn more about FTP/File Transfer Protocol (and SFTP/Secure File Transfer Protocol) in order to upload and manage a website. It has given me a clearer sense of what to do when wishing to create a site from scratch AND the interconnectivity between files i.e. using external stylesheets and scripts for better speed and cleaner code.
 
 **Thoughts** I started the evening really worried that I wouldn't be able to get my task done in time but now I've gained more confidence than I expected. I feel very comfortable in creating an entire website now and linking everything together. Feeling very good about this - it feels as easy as it was when I was really in my stride at Spark44. Websites are just folders and files connected together in a seemingly fancy way. It's all very simple thinking about it.
+
+### Day 13: 16 October 2019: Wednesday
+
+**Today's Progress** I may have a possible client as mentioned yesterday. Learning plenty in the lead up to working with them. Need to have a strong sense of web development so practicing by building my own website and will attempt to access the CNT site through FileZilla. Time will tell. The pressure is really making me push to know the real-world applications of web development rather than the typical practising.
+
+**Thoughts** Definitely had a feeling of dread today like I won't be able to build a landing page in the way that is suggested. All I have to do is learn everything I can and become the best web developer possible. I know what I can accomplish. I have taught myself so much and I know I can build websites. I just need to focus on what I'm doing and build my website.
