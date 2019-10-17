@@ -101,3 +101,9 @@
 **Today's Progress** I may have a possible client as mentioned yesterday. Learning plenty in the lead up to working with them. Need to have a strong sense of web development so practicing by building my own website and will attempt to access the CNT site through FileZilla. Time will tell. The pressure is really making me push to know the real-world applications of web development rather than the typical practising.
 
 **Thoughts** Definitely had a feeling of dread today like I won't be able to build a landing page in the way that is suggested. All I have to do is learn everything I can and become the best web developer possible. I know what I can accomplish. I have taught myself so much and I know I can build websites. I just need to focus on what I'm doing and build my website.
+
+### Day 14: 17 October 2019: Thursday
+
+**Today's Progress** Continuing work on my website and officially gained my first client for web development - the logistics company. It's a big task and I still have lots to learn but I've got to get cracking now. No messing about - I have to prove to others and myself that I am officially a web developer.
+
+**Thoughts** Definitely feel like I can't do it but this sense of dread os what really pushes me to do a lot of work. I can do it.
