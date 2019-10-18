@@ -107,3 +107,9 @@
 **Today's Progress** Continuing work on my website and officially gained my first client for web development - the logistics company. It's a big task and I still have lots to learn but I've got to get cracking now. No messing about - I have to prove to others and myself that I am officially a web developer.
 
 **Thoughts** Definitely feel like I can't do it but this sense of dread os what really pushes me to do a lot of work. I can do it.
+
+### Day 15: 18 October 2019: Friday
+
+**Today's Progress** Started work on first official client as a web developer. Still have lots to learn but I'm doing it. Did some more practice on JavaScript.
+
+**Thoughts** That imposter feeling is creeping in but I have the weekend to figure things out and become a better developer.
