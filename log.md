@@ -119,3 +119,9 @@
 **Today's Progress** Received another two certifications from freeCodeCamp. I feel like I'm cheating because I don't know what I'm doing entirely. I just need to keep trying and working hard and not try to cut corners. I've seen my first back-end work. Feels like learning JavaScript for the first time - I couldn't see how it could be useful as it's just the basic skills rather than using it in the real world so far. I will get there.
 
 **Thoughts** I haven't got around to my client project today. I've been too excited by progressing to becoming a full stack developer. There's so much to learn but I need to remember to become a true expert in HTML/CSS and JavaScript (and Front-end libraries like Bootstrap, React, Angular & Vue). 
+
+### Day 17: 20 October 2019: Sunday
+
+**Today's Progress** Ridiculously productive day of building my website (rebuild) to fit the branding I want. I love it so far. Dip my toe into some PHP & Python (maybe SQL if there's time - probably not). I want to learn so much but know I need to focus on strengthening my front-end skills.
+
+**Thoughts** It's been a great weekend. Really tough at points in learning npm and Node.js but it's like all things - a slow grind.
