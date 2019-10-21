@@ -125,3 +125,9 @@
 **Today's Progress** Ridiculously productive day of building my website (rebuild) to fit the branding I want. I love it so far. Dip my toe into some PHP & Python (maybe SQL if there's time - probably not). I want to learn so much but know I need to focus on strengthening my front-end skills.
 
 **Thoughts** It's been a great weekend. Really tough at points in learning npm and Node.js but it's like all things - a slow grind.
+
+### Day 18: 21 October 2019: Monday
+
+**Today's Progress** Focused learning of React. Need to get comfortable in the front end before I go crazy in other areas. I want to be a specialist in HTML/CSS, JavaScript, React & Bootstrap. I can learn others from there. I should focus on these for now.
+
+**Thoughts** It feels good to have a clearer focus. IT may not be the best in the job hunt but I know it's important that I focus my time in order to learn more effectively.
