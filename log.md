@@ -131,3 +131,9 @@
 **Today's Progress** Focused learning of React. Need to get comfortable in the front end before I go crazy in other areas. I want to be a specialist in HTML/CSS, JavaScript, React & Bootstrap. I can learn others from there. I should focus on these for now.
 
 **Thoughts** It feels good to have a clearer focus. IT may not be the best in the job hunt but I know it's important that I focus my time in order to learn more effectively.
+
+### Day 19: 22 October 2019: Tuesday
+
+**Today's Progress** Solid work on React - Codeacademy is a much better system of tutorials so I might focus on that and do the projects on freecodecamp just for the certifications (only two to go I believe plus the Full Stack one as a plus). Listened to more Syntax but not everything makes sense at the moment - just need to get used to the terminology.
+
+**Thoughts** It's very addictive to learn new things like this. It's challenging at times but, like Dark Souls, no matter how difficult it gets, I keep coming back for more punishment.
