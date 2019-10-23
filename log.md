@@ -137,3 +137,9 @@
 **Today's Progress** Solid work on React - Codeacademy is a much better system of tutorials so I might focus on that and do the projects on freecodecamp just for the certifications (only two to go I believe plus the Full Stack one as a plus). Listened to more Syntax but not everything makes sense at the moment - just need to get used to the terminology.
 
 **Thoughts** It's very addictive to learn new things like this. It's challenging at times but, like Dark Souls, no matter how difficult it gets, I keep coming back for more punishment.
+
+### Day 20: 23 October 2019: Wednesday
+
+**Today's Progress** Completed codeacademy React.js Part I - onto Part II. Didn't do as much as I wanted to today but I have all day tomorrow to smash it!
+
+**Thoughts** Doesn't feel like a normal day anymore without a good portion of it devoted to coding. It just makes sense to work on it even when it doesn't make sense. Deos that make sense?
