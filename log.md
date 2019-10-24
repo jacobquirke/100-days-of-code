@@ -143,3 +143,9 @@
 **Today's Progress** Completed codeacademy React.js Part I - onto Part II. Didn't do as much as I wanted to today but I have all day tomorrow to smash it!
 
 **Thoughts** Doesn't feel like a normal day anymore without a good portion of it devoted to coding. It just makes sense to work on it even when it doesn't make sense. Deos that make sense?
+
+### Day 21: 24 October 2019: Thursday
+
+**Today's Progress** Slowly whittling down what I should really focus on - I need to be really strong in the front end before moving onto anything else fully. Master HTML, CSS & JavaScript through building projects. Tutorials only work so far. Worked on React which, in turn, made me wish to go back to basics.
+
+**Thoughts** Don't feel confident in more complicated ideas - I need to focus on the projects I have and learning through them.
