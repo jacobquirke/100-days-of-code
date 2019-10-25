@@ -149,3 +149,9 @@
 **Today's Progress** Slowly whittling down what I should really focus on - I need to be really strong in the front end before moving onto anything else fully. Master HTML, CSS & JavaScript through building projects. Tutorials only work so far. Worked on React which, in turn, made me wish to go back to basics.
 
 **Thoughts** Don't feel confident in more complicated ideas - I need to focus on the projects I have and learning through them.
+
+### Day 22: 25 October 2019: Friday
+
+**Today's Progress** Started the day thinking I'd focus on the front end but had to force myself to learn php very quickly in order to complete my work for DNEL. I work very well when I know I have no choice but to complete a task. Really helps.
+
+**Thoughts** It feels good to solve problems I had no idea I could. I've definitely learned a lot today and know I can push myself into more challenging situations.
