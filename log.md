@@ -155,3 +155,9 @@
 **Today's Progress** Started the day thinking I'd focus on the front end but had to force myself to learn php very quickly in order to complete my work for DNEL. I work very well when I know I have no choice but to complete a task. Really helps.
 
 **Thoughts** It feels good to solve problems I had no idea I could. I've definitely learned a lot today and know I can push myself into more challenging situations.
+
+### Day 23: 26 October 2019: Saturday
+
+**Today's Progress** Completed the construction of the full page using my new understanding of php. Need to do some testing and modify the logo and parts to be better optimised for all platforms and devices.
+
+**Thoughts** I am proud of the work I've done. Definitely can't wait to continue to build my portfolio and overall skills. Keep it up!
