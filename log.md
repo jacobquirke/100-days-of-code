@@ -161,3 +161,9 @@
 **Today's Progress** Completed the construction of the full page using my new understanding of php. Need to do some testing and modify the logo and parts to be better optimised for all platforms and devices.
 
 **Thoughts** I am proud of the work I've done. Definitely can't wait to continue to build my portfolio and overall skills. Keep it up!
+
+### Day 24: 27 October 2019: Sunday
+
+**Today's Progress** Figured out how to incorporate PHP into my own site. A struggle but did it.
+
+**Thoughts** Feel happy with what I've done today. Basic stuff in the grand scheme of things but I'm getting there towards full stack developer even when I thought I was going to focus on the front end.
