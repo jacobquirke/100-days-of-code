@@ -167,3 +167,12 @@
 **Today's Progress** Figured out how to incorporate PHP into my own site. A struggle but did it.
 
 **Thoughts** Feel happy with what I've done today. Basic stuff in the grand scheme of things but I'm getting there towards full stack developer even when I thought I was going to focus on the front end.
+
+### Day 25: 28 October 2019: Monday
+
+**Today's Progress** Finally added the webpage to the DNEL website to only find that every contact form on the website is not working. Time for a larger project to begin!
+
+**Thoughts** I don't think this will feel like a satisfying win until the contact forms are working. Annoying.
+
+**Links to work**
+- [DNEL | Custom Campers and Trailers](http://www.dneventsltd.com/custom-campers.php)
