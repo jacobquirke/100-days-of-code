@@ -176,3 +176,15 @@
 
 **Links to work**
 - [DNEL | Custom Campers and Trailers](http://www.dneventsltd.com/custom-campers.php)
+
+### Day 26: 29 October 2019: Tuesday
+
+**Today's Progress** Working on my contact form and messing with my website. Didn't do as much work as I expected
+
+**Thoughts** My website is definitely getting to a point where I can feel proud of it. I made it (with support and aid of templates).
+
+### Day 27: 30 October 2019: Wednesday
+
+**Today's Progress** Fiddling with my website again. Completed all the pages. Now it's to build it to a professional standard - make the transitions smooth and load time extremely good.
+
+**Thoughts** The sooner I can get this up and running the better. My priority is to build up my portfolio now to flesh out my projects page. Let's 'av it!
