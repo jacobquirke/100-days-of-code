@@ -188,3 +188,15 @@
 **Today's Progress** Fiddling with my website again. Completed all the pages. Now it's to build it to a professional standard - make the transitions smooth and load time extremely good.
 
 **Thoughts** The sooner I can get this up and running the better. My priority is to build up my portfolio now to flesh out my projects page. Let's 'av it!
+
+### Day 28: 31 October 2019: Thursday
+
+**Today's Progress** JavaScript practice.
+
+**Thoughts** Not too much today. Enjoying holiday but still did some work.
+
+### Day 29: 1 November 2019: Friday
+
+**Today's Progress** JavaScript practice.
+
+**Thoughts** Really need to feel more comfortable in using JavaScript.
