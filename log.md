@@ -200,3 +200,9 @@
 **Today's Progress** JavaScript practice.
 
 **Thoughts** Really need to feel more comfortable in using JavaScript.
+
+### Day 30: 2 November 2019: Saturday
+
+**Today's Progress** More JavaScript it's coming out my eyeballs but I really need to get a stronger grasp of it. I need to git gud.
+
+**Thoughts** Definitely feel a coding fatigue but I know that I need to find projects to get involved in so I can feel that I can continue to achieve things.
