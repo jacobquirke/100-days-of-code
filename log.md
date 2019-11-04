@@ -206,3 +206,15 @@
 **Today's Progress** More JavaScript it's coming out my eyeballs but I really need to get a stronger grasp of it. I need to git gud.
 
 **Thoughts** Definitely feel a coding fatigue but I know that I need to find projects to get involved in so I can feel that I can continue to achieve things.
+
+### Day 31: 3 November 2019: Sunday
+
+**Today's Progress** Genuinely believe I did nothing of value today.
+
+**Thoughts** Not a good day in the slightest. It's a point between wanting and habit.
+
+### Day 32: 4 November 2019: Monday
+
+**Today's Progress** Decided on working towards a meditation app. I can create a desktop app but need to become more fluent in JavaScript.
+
+**Thoughts** My aim is to create something, with ease, that I can feel proud of. I'm still checking in using templates but now I need to fully embracing building from scratch.
