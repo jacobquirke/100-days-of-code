@@ -218,3 +218,15 @@
 **Today's Progress** Decided on working towards a meditation app. I can create a desktop app but need to become more fluent in JavaScript.
 
 **Thoughts** My aim is to create something, with ease, that I can feel proud of. I'm still checking in using templates but now I need to fully embracing building from scratch.
+
+### Day 33: 5 November 2019: Tuesday
+
+**Today's Progress** CSS work on the meditation app.
+
+**Thoughts** Pretty standard. JavaScript is where it's going DOWN!
+
+### Day 34: 6 November 2019: Wednesday
+
+**Today's Progress** JavaScript time! The fun begins in building my meditation app. Lots to figure out and debug.
+
+**Thoughts** I can definitely do JavaScript but need to grow in confidence. Got a job interview for Monday which is a real boost in confidence and helps to continue my drive to develop my skills.
