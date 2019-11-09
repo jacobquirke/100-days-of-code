@@ -230,3 +230,24 @@
 **Today's Progress** JavaScript time! The fun begins in building my meditation app. Lots to figure out and debug.
 
 **Thoughts** I can definitely do JavaScript but need to grow in confidence. Got a job interview for Monday which is a real boost in confidence and helps to continue my drive to develop my skills.
+
+
+### Day 35: 7 November 2019: Thursday
+
+**Today's Progress** Debugging galore on my meditation app! Almost there
+
+**Thoughts** Feeling fatigued by this project but I'll feel really good to know what I've accomplished.
+
+
+### Day 36: 8 November 2019: Friday
+
+**Today's Progress** Not too much today - working towards the big day on Monday. Want to make this all a career.
+
+**Thoughts** Big weekend task is practicing JavaScript, data structures and then interview revision questions.
+
+
+### Day 37: 9 November 2019: Saturday
+
+**Today's Progress** Completed my meditation app. Could do with some more work on it but it's done for now. The rest of the weekend will be devoted on practicing JavaScript, data structures, algorithm and feeling more confident as a Front-end developer.
+
+**Thoughts** Getting that imposter syndrome but I have to focus on knowing how passionate I am and knowing that I am willing to put the work in to pick things up (which I do very quickly).
