@@ -258,7 +258,7 @@
 
 **Thoughts** Pretty nervouse.
 
-### Day 39: 9 November 2019: Sunday
+### Day 39: 9 November 2019: Monday
 
 **Today's Progress** Beginning work on a technical project. Going to practice first by building my own weather app. Lots of exercises.
 
