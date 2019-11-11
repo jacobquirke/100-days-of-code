@@ -251,3 +251,15 @@
 **Today's Progress** Completed my meditation app. Could do with some more work on it but it's done for now. The rest of the weekend will be devoted on practicing JavaScript, data structures, algorithm and feeling more confident as a Front-end developer.
 
 **Thoughts** Getting that imposter syndrome but I have to focus on knowing how passionate I am and knowing that I am willing to put the work in to pick things up (which I do very quickly).
+
+### Day 38: 9 November 2019: Sunday
+
+**Today's Progress** More JavaScript practice ready for tomorrow.
+
+**Thoughts** Pretty nervouse.
+
+### Day 39: 9 November 2019: Sunday
+
+**Today's Progress** Beginning work on a technical project. Going to practice first by building my own weather app. Lots of exercises.
+
+**Thoughts** Feeling proud and I know that I can do it!
