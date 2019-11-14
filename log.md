@@ -252,14 +252,32 @@
 
 **Thoughts** Getting that imposter syndrome but I have to focus on knowing how passionate I am and knowing that I am willing to put the work in to pick things up (which I do very quickly).
 
-### Day 38: 9 November 2019: Sunday
+### Day 38: 10 November 2019: Sunday
 
 **Today's Progress** More JavaScript practice ready for tomorrow.
 
 **Thoughts** Pretty nervouse.
 
-### Day 39: 9 November 2019: Monday
+### Day 39: 11 November 2019: Monday
 
 **Today's Progress** Beginning work on a technical project. Going to practice first by building my own weather app. Lots of exercises.
 
 **Thoughts** Feeling proud and I know that I can do it!
+
+### Day 40: 12 November 2019: Tuesday
+
+**Today's Progress** Been a very hectic work day so haven't found much time to dedicated to solid coding. Building the basic skeleton of what will be my best project yet!
+
+**Thoughts** A good week is in store. Plenty of coding!
+
+### Day 41: 13 November 2019: Wednesday
+
+**Today's Progress**  Got in a good hour of coding on my little weather project. Definitely getting there. Just need a few final touches and debugging of the JS.
+
+**Thoughts** All the work I've done over the last few months is really paying off.
+
+### Day 42: 9 November 2019: Thursday
+
+**Today's Progress** The finishing touches to the weather widget. All done and dusted and on GitHub. Ready!
+
+**Thoughts** Now I need to hone my skills in React and JavaScript to be the best Front-End Developer I can. Smash it.
