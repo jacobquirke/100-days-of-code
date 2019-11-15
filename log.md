@@ -276,8 +276,14 @@
 
 **Thoughts** All the work I've done over the last few months is really paying off.
 
-### Day 42: 9 November 2019: Thursday
+### Day 42: 14 November 2019: Thursday
 
 **Today's Progress** The finishing touches to the weather widget. All done and dusted and on GitHub. Ready!
 
 **Thoughts** Now I need to hone my skills in React and JavaScript to be the best Front-End Developer I can. Smash it.
+
+### Day 43: 15 November 2019: Friday
+
+**Today's Progress** New project - creating a demotivational quote generator. 
+
+**Thoughts** Feeling comfortable in going mad with my own projects now. Easy.
