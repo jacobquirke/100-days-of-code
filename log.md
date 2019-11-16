@@ -287,3 +287,9 @@
 **Today's Progress** New project - creating a demotivational quote generator. 
 
 **Thoughts** Feeling comfortable in going mad with my own projects now. Easy.
+
+### Day 44: 16 November 2019: Saturday
+
+**Today's Progress** Built the Javascript for a demotivational quote generator. Getting a lot easier.
+
+**Thoughts** Feeling really confident about my new skills in JavaScript.
