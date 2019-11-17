@@ -293,3 +293,9 @@
 **Today's Progress** Built the Javascript for a demotivational quote generator. Getting a lot easier.
 
 **Thoughts** Feeling really confident about my new skills in JavaScript.
+
+### Day 45: 17 November 2019: Sunday
+
+**Today's Progress** Built a fullscreen JavaScript overlay which I will incorporate into my new website for all pages using alongside PHP.
+
+**Thoughts** Getting used to more complex ideas and useful concepts that can be put on websites.
