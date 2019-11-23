@@ -299,3 +299,45 @@
 **Today's Progress** Built a fullscreen JavaScript overlay which I will incorporate into my new website for all pages using alongside PHP.
 
 **Thoughts** Getting used to more complex ideas and useful concepts that can be put on websites.
+
+### Day 46: 18 November 2019: Monday
+
+**Today's Progress** Website rebuild. Lots to work on and trying to create page transitions.
+
+**Thoughts** Quite frustrating debugging everything and making changings to make it look more professional.
+
+### Day 47: 19 November 2019: Tuesday
+
+**Today's Progress** More work on page transitions - difficult to make it look good and I may have broken the entire site. Back to the drawing board.
+
+**Thoughts** More frustration but definitely learning a lot about how to construct websites from the ground up.
+
+### Day 48: 20 November 2019: Wednesday
+
+**Today's Progress** Day 3 of page transitions - really want to be able to get it down myself rather than aimlessly copying things. It's better to learn than to build at this point.
+
+**Thoughts** Just have to keep at it until I know exactly what I'm doing and why.
+
+### Day 49: 21 November 2019: Thursday
+
+**Today's Progress** Almost ready to complete my website until I realise I still have LOTS to do and more debugging with every change I make.
+
+**Thoughts** It's like a Hydra but I have come a long way over the past 50 days.
+
+### Day 50: 22 November 2019: Friday
+
+**Today's Progress** Debugging city! Somehow I made my site into a bombsite - back to where I started ahaha!
+
+**Thoughts** Half way through and plenty more to learn.
+
+### Day 51: 23 November 2019: Saturday
+
+**Today's Progress** Practicing JavaScript with some basic popups. Good to keep up the basics!
+
+**Thoughts** Feeling stronger and stronger with JS everyday. Need to become an expert.
+
+### Day 52: 24 November 2019: Sunday
+
+**Today's Progress** 
+
+**Thoughts** 
